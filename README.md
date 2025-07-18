@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Arpita Pathak
 
-<!--
-**Arpita34/Arpita34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergrad at **IIITDM Jabalpur** | 💻 Full-Stack Developer | 🤖 AI Enthusiast 
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arpita--pathak-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arpita-pathak-48a47122b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arpita34-black?logo=github&style=flat-square)](https://github.com/Arpita34)
+[![Email](https://img.shields.io/badge/Email-pathakarpita867@gmail.com-red?logo=gmail&style=flat-square)](mailto:pathakarpita867@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+**Languages:**  
+`C` `C++` `Python` `Java` `JavaScript` `PHP` `SQL` `HTML` `CSS`
+
+**Frameworks & Libraries:**  
+`ReactJS` `React Native` `Node.js` `Express.js` 
+
+**Databases:**  
+`MongoDB` `MySQL` `Firebase` `Cloudinary`
+
+## 🧠 Coding Profiles
+
+- 🔗 [Codechef](https://www.codechef.com/users/arpita2025))
+
+
+---
+
+📫 **Let's connect!** Reach out at [pathakarpita867@gmail.com](mailto:pathakarpita867@gmail.com)
