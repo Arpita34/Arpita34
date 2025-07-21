@@ -31,7 +31,8 @@ Welcome to my creative corner on GitHub!
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🔧 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,androidstudio theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,&theme=dark" width="100%" />
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
