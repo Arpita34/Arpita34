@@ -19,7 +19,6 @@ Welcome to my creative corner on GitHub!
 
 ### 🖥️ Languages
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,figma,docker,linux&theme=dark" width="100%" />
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -32,6 +31,8 @@ Welcome to my creative corner on GitHub!
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🔧 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,androidstudio theme=dark" width="100%" />
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
