@@ -1,64 +1,62 @@
 # 👋 Hi, I'm Arpita Pathak
-Welcome to my creative corner on GitHub!  
 
 🎓 Computer Science undergrad at **IIITDM Jabalpur** | 💻 Full-Stack Developer | 🤖 AI Enthusiast 
+
+---
+
 ## 🚀 About Me
 
----
-- 🎒 Currently learning and experimenting with cool tech stuff.
-- ✨ Passionate about coding, creativity, and making the digital world a little brighter.
-- 📚 Always curious, always growing.
+- 🎒 Currently learning and experimenting with cool tech stuff  
+- 📚 Always curious, always growing  
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arpita--pathak-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arpita-pathak-48a47122b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arpita34-black?logo=github&style=flat-square)](https://github.com/Arpita34)
-[![Email](https://img.shields.io/badge/Email-pathakarpita867@gmail.com-red?logo=gmail&style=flat-square)](mailto:pathakarpita867@gmail.com)
+## 👩‍💻 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arpita-pathak-48a47122b/" target="_blank">
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Arpita34" target="_blank">
+    <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pathakarpita867@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/arpita2025" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🖥️ Languages
+## 🖥️ Languages 
 
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🔧 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,&theme=dark" width="100%" />
-
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,mysql,html,css&theme=dark" />
+</p>
 
 ---
+
+## 🔧 Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,&theme=dark" />
+</p>
+
+---
+
 ## 🌈 What I’m Working On
 
-- Configuring my GitHub profile to reflect my unique style.
-- Building fun projects and sharing my learning journey.
-- Connecting with other creative minds!
+- Building fun projects and sharing my learning journey  
+- Connecting with other creative minds  
 
 ---
 
 ## 🧠 Coding Profiles
 
-- 🔗 [Codechef](https://www.codechef.com/users/arpita2025))
+- 🔗 [CodeChef](https://www.codechef.com/users/arpita2025)
 
-
----
-
-![Arpita's creative splash](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
