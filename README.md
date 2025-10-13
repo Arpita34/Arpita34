@@ -22,7 +22,7 @@
 ## 🔧 Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,docker,linux&theme=dark" />
 </p>
 
 ---
