@@ -13,11 +13,7 @@
 ```ts
 const arpita = {
   education : "B.Tech CSE @ IIITDM Jabalpur (2022–2026)",
-  role      : "Full-Stack Developer",
-  focus     : ["React.js", "Node.js", "MongoDB", "AI Integrations"],
-  achievement: "Top 100 @ Walmart CodeHers 2026 🏆",
-  dsaStreak : "500+ problems solved across platforms 🧩",
-  currentlyBuilding: "Scalable web apps with AI-powered features",
+  role      : "Software Developer",
   funFact   : "I debug faster with lo-fi music 🎧"
 };
 ```
@@ -163,7 +159,6 @@ const arpita = {
 |---|---|
 | 🥇 Walmart CodeHers 2026 | Top 100 students nationwide |
 | 🧩 DSA Problems Solved | 500+ across platforms |
-| 💻 Experience | Software Developer @ IIITDM Jabalpur |
 
 </div>
 
