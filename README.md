@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4A90D9&height=200&section=header&text=Arpita%20Pathak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=c8dff5" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;500%2B+DSA+problems+solved+%F0%9F%A7%A0;Top+100+%40+Walmart+CodeHers+2026+%F0%9F%8F%86;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -138,34 +136,12 @@ const arpita = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arpita34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpita34&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Achievements & Competitive Programming
+## 🧩 Competitive Programming
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🥇 Walmart CodeHers 2026 | Top 100 students nationwide |
-| 🧩 DSA Problems Solved | 500+ across platforms |
-
-</div>
-
-<div align="center">
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-arpita2025-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpita2025)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Arpita__34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpita_34/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-arpita2025-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpita2025)
 
 </div>
 
