@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4A90D9&height=220&section=header&text=Arpita%20Pathak&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=60&descColor=c8dff5&animation=fadeIn" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
@@ -153,7 +155,6 @@ const arpita = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita_Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-pathak-48a47122b/)
 [![Gmail](https://img.shields.io/badge/Gmail-pathakarpita867@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakarpita867@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Arpita34-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpita34)
 
 </div>
 
