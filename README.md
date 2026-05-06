@@ -1,54 +1,199 @@
-# 👋 Hi, I'm Arpita Pathak
+<div align="center">
 
-🎓 Computer Science undergrad at **IIITDM Jabalpur** | 💻 Full-Stack Developer | 🤖 AI Enthusiast  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:4A90D9&height=200&section=header&text=Arpita%20Pathak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=58&descColor=c8dff5" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;500%2B+DSA+problems+solved+%F0%9F%A7%A0;Top+100+%40+Walmart+CodeHers+2026+%F0%9F%8F%86;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
-## 🚀 About Me
-
-- 🎒 Currently learning and experimenting with cool tech stuff  
-- 📚 Always curious, always growing  
+</div>
 
 ---
 
-## 🖥️ Languages
+## 👩‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,mysql,html,css&theme=dark" />
-</p>
-
----
-
-## 🔧 Frameworks & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,firebase,git,github,vscode,postman,androidstudio,docker,linux&theme=dark" />
-</p>
-
----
-
-## 🌈 What I’m Working On
-
-- Building fun projects and sharing my learning journey  
-- Connecting with other creative minds  
+```ts
+const arpita = {
+  education : "B.Tech CSE @ IIITDM Jabalpur (2022–2026)",
+  role      : "Full-Stack Developer",
+  focus     : ["React.js", "Node.js", "MongoDB", "AI Integrations"],
+  achievement: "Top 100 @ Walmart CodeHers 2026 🏆",
+  dsaStreak : "500+ problems solved across platforms 🧩",
+  currentlyBuilding: "Scalable web apps with AI-powered features",
+  funFact   : "I debug faster with lo-fi music 🎧"
+};
+```
 
 ---
 
-## 🧠 Coding Profiles
+## 🛠️ Tech Stack
 
-- 🔗 [CodeChef](https://www.codechef.com/users/arpita2025)
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS_Rekognition-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ SentinelStream</h3>
+      <p>Full-stack <strong>AI-powered content moderation platform</strong> with real-time video processing.</p>
+      <ul>
+        <li>100+ async video uploads with role-based JWT access</li>
+        <li>AWS Rekognition → 60% reduction in manual review</li>
+        <li>WebSocket progress tracking → 20% drop-off reduction</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Arpita34/SentinelStream">
+        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI Mock Interview App</h3>
+      <p>AI-driven platform that <strong>generates interview questions</strong> and evaluates responses in real time.</p>
+      <ul>
+        <li>Powered by Gemini AI via OpenRouter API</li>
+        <li>Interview attempt history for progress tracking</li>
+        <li>30% improvement in preparation efficiency</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <a href="https://ai-interview-mocker-gules.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-4A90D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎬 Movie Ticket Booking System</h3>
+      <p>Full-featured booking platform with <strong>Stripe payments</strong> and admin management.</p>
+      <ul>
+        <li>200+ users with seat selection & booking history</li>
+        <li>Admin + user dashboards for 20+ movies</li>
+        <li>Stripe + seat expiry → 40% fewer booking conflicts</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Arpita34/MovieTicketBooking">
+        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🗺️ Pathfinding Algorithm Visualizer</h3>
+      <p>Interactive <strong>algorithm visualizer</strong> for BFS, DFS, Dijkstra's & A*.</p>
+      <ul>
+        <li>Step-by-step visual traversal of 4 algorithms</li>
+        <li>40% faster build time with Vite migration</li>
+        <li>30% faster rendering via memoization</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Arpita34/PathFinder">
+        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arpita34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita34&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpita34&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Competitive Programming
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|---|---|
+| 🥇 Walmart CodeHers 2026 | Top 100 students nationwide |
+| 🧩 DSA Problems Solved | 500+ across platforms |
+| 💻 Experience | Software Developer @ IIITDM Jabalpur |
+
+</div>
+
+<div align="center">
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-arpita2025-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arpita2025)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Arpita__34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Arpita_34/)
+
+</div>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arpita-pathak-48a47122b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pathakarpita867@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita_Pathak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-pathak-48a47122b/)
+[![Gmail](https://img.shields.io/badge/Gmail-pathakarpita867@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakarpita867@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Arpita34-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpita34)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:1F4E79&height=100&section=footer"/>
+
+*"First, solve the problem. Then, write the code."* ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arpita34&color=4A90D9&style=flat-square&label=Profile+Views)
+
+</div>
